@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(26, 26, 26);
+}
+
+#panel {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+#links {
+    position: absolute;
+    right: 400px;
+    top: 250px;
+}
+
+#chatgpt {
+    background-image: url(/src/chatgptIcon.png);
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+#github {
+    background-image: url(/src/githubIcon.png);
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+}
+
+#notion {
+    background-image: url(/src/notionIcon.png);
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 40px;    
+}
+
+#twitch {
+    background-image: url(/src/twitchIcon.png);
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 60px;    
+}
+
+#twitter {
+    background-image: url(/src/twitterIcon.png);
+    display: block;
+    width: 50px;
+    height: 50px; 
+    position: relative;
+    top: 80px;     
+}
+
+#youtube {
+    background-image: url(/src/youtubeIcon.png);
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 100px;      
+}
