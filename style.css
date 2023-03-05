@@ -15,14 +15,14 @@ body {
 }
 
 #chatgpt {
-    background-image: url(/src/chatgptIcon.png);
+    background-image: url(src/chatgptIcon.png);
     display: block;
     width: 50px;
     height: 50px;
 }
 
 #github {
-    background-image: url(/src/githubIcon.png);
+    background-image: url(src/githubIcon.png);
     display: block;
     width: 50px;
     height: 50px;
@@ -31,7 +31,7 @@ body {
 }
 
 #notion {
-    background-image: url(/src/notionIcon.png);
+    background-image: url(src/notionIcon.png);
     display: block;
     width: 50px;
     height: 50px;
@@ -40,7 +40,7 @@ body {
 }
 
 #twitch {
-    background-image: url(/src/twitchIcon.png);
+    background-image: url(src/twitchIcon.png);
     display: block;
     width: 50px;
     height: 50px;
@@ -49,7 +49,7 @@ body {
 }
 
 #twitter {
-    background-image: url(/src/twitterIcon.png);
+    background-image: url(src/twitterIcon.png);
     display: block;
     width: 50px;
     height: 50px; 
@@ -58,7 +58,7 @@ body {
 }
 
 #youtube {
-    background-image: url(/src/youtubeIcon.png);
+    background-image: url(src/youtubeIcon.png);
     display: block;
     width: 50px;
     height: 50px;
